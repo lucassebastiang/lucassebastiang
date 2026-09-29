@@ -1,4 +1,6 @@
-# Lucas Sebastián Gómez
+<p align="center">
+  <img src="assets/banner.webp" alt="Lucas Sebastián Gómez · IA aplicada y automatización" width="100%">
+</p>
 
 Aplico la IA a negocios reales: automatizo el trabajo repetitivo de las empresas para que la gente dedique su tiempo a lo que importa. Soy director de informática en una asesoría de A Coruña y cofundador de [circo estudio](https://circoestudio.com). Vengo de más de 15 años de diseño y código, así que no solo conecto herramientas: construyo la solución entera.
 
